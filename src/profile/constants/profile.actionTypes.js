@@ -1,0 +1,3 @@
+const PREFIX = "PROFILE__";
+
+export const SET_CURRENT_USER = PREFIX + "SET_CURRENT_USER";

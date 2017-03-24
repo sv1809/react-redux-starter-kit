@@ -1,0 +1,20 @@
+.fieldValue {
+    display: flex;
+    position: relative;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.caption {
+    width: 200px;
+    flex: 0 0 auto;
+    padding-right: 15px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.value {
+    width: 100%;
+    display: inline-block;
+    margin-left: 15px;
+}

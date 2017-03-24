@@ -1,0 +1,15 @@
+@import "../../../assets/styles/colors";
+
+.menu {
+    box-sizing: border-box;
+    background: var(--primary-color);
+    top: 0;
+    left: 0;
+    position: fixed;
+    height: 100%;
+    padding-top: 64px;
+    width: 300px;
+    overflow: hidden;
+    font-size: 13px;
+    z-index: 2;
+}
